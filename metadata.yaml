@@ -1,0 +1,32 @@
+_repo: If-Winter-Comes_14145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutchinson, A. S. M. (Arthur Stuart-Menteth)
+    alias: Hutchinson, Arthur Stuart-Menteth
+    birthdate: 1880
+    deathdate: 1971
+    gutenberg_agent_id: '2028'
+    url: http://www.gutenberg.org/2009/agents/2028
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Stuart-Menteth_Hutchinson
+description: If Winter Comes is not only a thrilling tale, it is an important work
+  of art" so stated the New York Times review of A. S. M. Hutchinson's novel. A humorous
+  but thoughtful and advanced portrait of an unhappy marriage, this captivating novel
+  deals with death, divorce, and everything inbetween.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: If Winter Comes
+url: http://www.gutenberg.org/ebooks/14145
